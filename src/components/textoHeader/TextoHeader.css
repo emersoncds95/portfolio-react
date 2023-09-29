@@ -1,0 +1,54 @@
+.text-home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.text-home h3 {
+    color: #FAA916;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.desenvolvedor {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.icones {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-left: 160px;
+}
+
+.icones svg {
+    margin: 0px 10px;
+}
+
+
+.desenvolvedor h2 {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.text-home h1 {
+    margin-top: -20px;
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 128px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 15.36px;
+    text-transform: uppercase;
+}
